@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         ChatGPT Replace Profile Picture
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/wbrandon25/ChatGPT-Change-Profile-Picture
 // @version      1.0
 // @description  Replace user profile picture with custom image
 // @author       wbrandon25
 // @match        https://chat.openai.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/wbrandon25/ChatGPT-Change-Profile-Picture/main/ChatGPT-Change-Profile-Picture.js
+// @downloadURL  https://raw.githubusercontent.com/wbrandon25/ChatGPT-Change-Profile-Picture/main/ChatGPT-Change-Profile-Picture.js
+// @homepageURL  https://github.com/wbrandon25/ChatGPT-Change-Profile-Picture
 
 // ==/UserScript==
 
