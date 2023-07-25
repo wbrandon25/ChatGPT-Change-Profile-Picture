@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT Replace Profile Picture
 // @namespace    https://github.com/wbrandon25/ChatGPT-Change-Profile-Picture
-// @version      1.0
+// @version      1.1
 // @description  Replace user profile picture with custom image
 // @author       wbrandon25
 // @match        https://chat.openai.com/*
