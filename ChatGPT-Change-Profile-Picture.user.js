@@ -24,7 +24,7 @@
         for (let i = 0; i < images.length; i++) {
             const img = images[i];
 
-            if (img.classList.contains('rounded-sm') && img.getAttribute('data-nimg') === 'intrinsic') {
+            if (img.classList.contains('rounded-sm') && img.getAttribute('data-nimg') === '1') {
                 img.src = customImageUrl;
                 img.srcset = customImageUrl;
             }
