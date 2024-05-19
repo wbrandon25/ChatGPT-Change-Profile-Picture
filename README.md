@@ -1,3 +1,6 @@
+# Archived
+This repository is archived and no longer maintained
+
 # ChatGPT-Change-Profile-Picture
 This userscript for Tampermonkey and Greasemonkey allows you to change your profile picture in ChatGPT to a custom image without changing your real account's profile picture.
 
